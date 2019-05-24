@@ -1,4 +1,5 @@
 # supervised and unsupervised learning
+machine learning techniques
 
 I will be exploring various machine learning techniques and applying them to real-world dataset.
 
